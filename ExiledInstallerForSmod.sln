@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExiledInstallerForSmod", "ExiledInstallerForSmod\ExiledInstallerForSmod.csproj", "{F3EDE622-9E6D-4960-9077-395261C9C045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3EDE622-9E6D-4960-9077-395261C9C045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EDE622-9E6D-4960-9077-395261C9C045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EDE622-9E6D-4960-9077-395261C9C045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EDE622-9E6D-4960-9077-395261C9C045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
